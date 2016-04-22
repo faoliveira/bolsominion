@@ -1,0 +1,1 @@
+$(".share").click(function(){var e="width=585,height=511",t=this.href,i=t.split("/")[2];switch(i){case"www.facebook.com":e="width=585,height=368";break;case"www.twitter.com":e="width=585,height=261"}return window.open(t,"","menubar=no,toolbar=no,resizable=yes,scrollbars=yes,"+e),!1});
