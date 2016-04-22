@@ -298,6 +298,7 @@ img {
   vertical-align: middle; }
 
 .img-responsive {
+  display: block;
   max-width: 100%;
   height: auto; }
 
@@ -3666,6 +3667,9 @@ h4 {
 
 .share:hover, .share:active, .share:focus {
   color: #ffffff; }
+
+.icon-2x {
+  font-size: 2em; }
 
 /* ==========================================================================
    MEDIA QUERIES
